@@ -1,0 +1,252 @@
+.rect{
+    background-color: #ce0505;
+    width:100%;
+    height:11%;
+
+ 
+}
+
+.logo{
+    
+    font-family: Poppins;
+    text-align: center;
+    position:absolute;
+    left:110px;
+    top: 25px;
+    font-size:33px;
+    font-weight: 700;
+    background-color: #ffffff;
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+    
+}
+
+.login{
+    width: 43px;
+  height: 23px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+    position:absolute;
+    right:310px;
+    top: 40px;
+    
+}
+
+.account{
+    width: 152px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    text-align: center;
+    position:absolute;
+    right:100px;
+    top: 33px;
+    width: 181px;
+    height: 26px;
+    padding: 5px 6px 5px 4px;
+    border-radius: 3px;
+    border: solid 1px #fff;
+    border-radius: 5px;
+   
+}
+
+section{
+    position: relative;
+    padding: 20px 115px;
+}
+
+
+
+.break{ 
+    color:#192f60;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 600px;
+    margin-bottom: 30px;
+}
+
+
+#aside{
+    position:absolute;
+    width: 200px;
+    height: 20px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    color: #8c96ab;
+  }
+
+
+#sel{
+    width: 208px;
+    height: 35px;
+    margin: 11px 0 22px 1px;
+    padding: 8px 16.7px 7px 15px;
+    border-radius: 3px;
+    border: solid;
+  }
+  
+
+#rec{ 
+    width: 260px;
+    height: 682px;
+    padding: 17px 25px 31px 26px;
+    
+  
+    box-sizing: border-box;
+    box-shadow: 0 3px 6px 0 gray;
+    background-color: #fff;
+    
+  }
+
+  .result1{
+    width: 794px;
+    height: 265px;
+    box-shadow: 0 3px 6px 0  rgba(0, 0, 0, 0.20);
+    background-color: #fff;
+    position: absolute;
+      top: 100px;
+      left:415px;
+      padding: 25px 32.6px 20px 35px;
+    
+
+  }
+
+  .result2{
+    position: absolute;
+    top:425px;
+    left:415px;
+    width: 794px;
+    height: 265px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.20);
+    padding: 25px 32.6px 20px 38px;
+    background-color: #fff;
+
+}
+
+.img1{
+    width: 120px;
+    height: 120px;
+    margin: 5px 41px 31px 0;
+    border-radius: 23px;
+    background-color: #ea6060;
+    display:inline-block;
+}
+
+.Big{
+    width: 298px;
+  margin: -5px;
+  margin: top -15px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  color: #192f60;
+  display:inline-block;
+  vertical-align: top;
+}
+
+.fort{
+  font-family: Poppins;
+  font-size: 15px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  color: #192f60;
+  position: absolute;
+  top:70px;
+  right:315px;
+}
+
+.table{
+  width: 140px;
+  height: 118px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+  display:block;
+  margin-top: 40px;
+}
+
+.table2{ 
+   width: 251px;
+  height: 69px;
+  margin: 26px 294.4px 0 61px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  position: absolute;
+  color: #192f60;
+  float: right;
+  top:197.80px;
+  right:90px;
+  
+
+}
+.page{
+  position: absolute;
+  left:44%;
+  bottom:1px;
+}
+
+.bot{
+background-color: #fff;
+  
+width: 40px;
+height: 40px;
+margin: 0 13px 0 0;
+padding-left:-10px;
+padding-top:7px;
+
+
+border-radius: 7px;
+border: solid 1px #8c96ab;
+
+width: 20px;
+font-family: Poppins;
+font-size: 25px;
+padding: 5px 15px 3px;
+border-radius: 7px;
+}
+
+
+
+main{
+  width: 100%;
+  height: 850px;
+  background-color: #fbfbfb;
+
+}
+.num{
+ text-decoration: none;
+ color: #8c96ab;
+  margin: -1px 0 0 -6px;
+}
+
+.bot:hover {
+  border: solid 1px #0f51e0;
+  background-color: black;
+  color:brown;
+}
+
